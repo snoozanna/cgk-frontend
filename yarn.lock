@@ -7,10 +7,10 @@ commander@^9.0.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-9.4.0.tgz#bc4a40918fefe52e22450c111ecd6b7acce6f11c"
   integrity sha512-sRPT+umqkz90UA8M1yqYfnHlZA7fF6nSphDtxeywPZ49ysjxDQybzk13CL+mXekDRG92skbcqCLVovuCusNmFw==
 
-cookie-consent-js@^2.1.6:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/cookie-consent-js/-/cookie-consent-js-2.1.6.tgz#c4c5a105c21740e19ac44e99417ddde7e5756a53"
-  integrity sha512-ELrbxfGYN9dCY4FJ7+33+n94liMTwfHD8TW/P2r0adz5gxaqTUwpn7raecBqvN9pYve4FsGNo5qhgxdzSNepCQ==
+cookie-consent-js@^2.1.12:
+  version "2.1.12"
+  resolved "https://registry.yarnpkg.com/cookie-consent-js/-/cookie-consent-js-2.1.12.tgz#b33876de9fb5b842e128a08ad7090256e4efe2a9"
+  integrity sha512-ift4Kv9/Yr6LsLfht5hgBG4umt3zLlZZMFyoNkilRmvXuF9V14TeTvj3oEAXfg1fr3MFK81NBGgrHDlg7OhUew==
 
 showdown@^2.1.0:
   version "2.1.0"

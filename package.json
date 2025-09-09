@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "cookie-consent-js": "^2.1.6",
+    "cookie-consent-js": "^2.1.12",
     "showdown": "^2.1.0"
   }
 }
